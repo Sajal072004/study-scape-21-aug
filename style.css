@@ -33,6 +33,7 @@
     height:30vh;
     background-size: cover;
     background-position: center;
+    background-blend-mode: multiply;
 }
 
 .study{
@@ -77,8 +78,9 @@
     color:rgb(0, 0, 0);
 }
 
-.links:hover{
-    color:rgb(124, 124, 255);
+.ll:hover{
+    color: aqua;
+    
 }
 
 .home{
@@ -151,4 +153,8 @@
 .contents:hover{
     background-color: aquamarine;
     transform:scale(1.1);
+}
+
+.linkk:hover{
+    color:aqua;
 }

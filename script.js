@@ -24,7 +24,7 @@ setInterval(function(){
     else myElement.style.backgroundImage = "url('study3.jpg')";
 
     
-},1600)
+},1700)
 
 
 
